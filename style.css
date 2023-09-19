@@ -8,9 +8,27 @@ h2{
     justify-content: center;
 }
 
+ul{
+        list-style-type: none;
+        display: inline-flex;   
+}
+
+img{
+    height: 350px;
+    margin-left: 500px;
+}
+
+
+summary{    
+        margin-top: 86px;  
+}
+
 form {
         display: flex;
         justify-content: center;
+        margin-top: 159px;
+        margin-bottom: 259px;
+        
     }
 
 
