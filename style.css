@@ -1,0 +1,23 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+form {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+}
